@@ -28,3 +28,5 @@
 [![](https://visitcount.itsvg.in/api?id=Ankush142930&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://app.daily.dev/ankush142930"><img src="https://api.daily.dev/devcards/v2/II3gJI24qRzq9CTQiEogz.png?type=default&r=unm" width="356" alt="Ankush's Dev Card"/></a>
