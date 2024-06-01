@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Ankush<br>👀 I’m a programming enthusiast<br>🌱 I’m currently a student at MNNIT, Allahabad<br>💞️ I’m looking to contribute to the Open-Source community
 
+<a href="https://app.daily.dev/ankush142930"><img src="https://api.daily.dev/devcards/v2/II3gJI24qRzq9CTQiEogz.png?type=default&r=unm" width="356" alt="Ankush's Dev Card"/></a>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100014606262476) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_ank14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankush14/) 
@@ -29,4 +31,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://app.daily.dev/ankush142930"><img src="https://api.daily.dev/devcards/v2/II3gJI24qRzq9CTQiEogz.png?type=default&r=unm" width="356" alt="Ankush's Dev Card"/></a>
+
