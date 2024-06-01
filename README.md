@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Ankush<br>👀 I’m a programming enthusiast<br>🌱 I’m currently a student at MNNIT, Allahabad<br>💞️ I’m looking to contribute to the Open-Source community
 
-<a href="https://app.daily.dev/ankush142930"><img src="https://api.daily.dev/devcards/v2/II3gJI24qRzq9CTQiEogz.png?type=default&r=unm" width="356" alt="Ankush's Dev Card"/></a>
+<a href="https://app.daily.dev/ankush142930"><img src="https://api.daily.dev/devcards/v2/II3gJI24qRzq9CTQiEogz.png?type=wide&r=pss" width="652" alt="Ankush's Dev Card"/></a>
 
 
 ## 🌐 Socials:
